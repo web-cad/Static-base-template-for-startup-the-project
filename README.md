@@ -7,5 +7,6 @@
   <li><a href="https://michalsnik.github.io/aos/" target="_blank">Animate On Scroll (AOS) Library</a></li>
   <li><a href="http://kenwheeler.github.io/slick/" target="_blank">Slick</a></li>
   <li><a href="http://bqworks.com/slider-pro/" target="_blank">Slider Pro</a></li>
+  <li><a href="https://fontawesome.com/" target="_blank">Font Awesome v5.0.8</a></li>
 </ul>
 
